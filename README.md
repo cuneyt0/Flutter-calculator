@@ -1,3 +1,3 @@
 # flutter-calculator
 
-Proje master klasöründe bulunmaktadır.
+Proje masterda bulunmaktadır.
